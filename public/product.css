@@ -1,0 +1,71 @@
+body{
+	background-color: lightblue;
+}
+
+.size-button{
+	background-color: powderblue;
+	border-radius: 50px;
+}
+.second-row{
+	margin-top: 50px;
+}
+.size-button2{
+	background-color: powderblue;
+	border-radius: 50px;
+}
+.size-button3{
+	background-color: powderblue;
+	border-radius: 50px;
+}
+.size-button4{
+	background-color: powderblue;
+	border-radius: 50px;
+}
+.size-button5{
+	background-color: powderblue;
+	border-radius: 50px;
+}
+.size-button6{
+	background-color: powderblue;
+	border-radius: 50px;
+}
+.size-button7{
+	background-color: powderblue;
+	border-radius: 50px;
+}
+
+.free {
+	background-color: orange;
+	color: white;
+	position: absolute;
+	top: 0px;
+	right: 15px;
+}
+.first{
+	border: none;
+}
+.yellow{
+	color: yellow;
+}
+.price{
+	margin-top: -10px;
+}
+.chat{
+	background-color: black;
+	color: white;
+	border-radius:0px;
+	width: 100%;
+}
+.button-btn{
+	background-color:black; 
+	color:white;
+}
+
+.drop-btn{
+	float: right;
+	width: 200px;
+}
+.dropup{
+	width: 200px;
+	text-align: left;
+}
